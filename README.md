@@ -4,7 +4,7 @@
 
 > This script is solely made for educational use for learning `pyautogui`.
 
-This is a little bot which automatically plays the Facebook game *[Lyto Different Color!](https://fb.gg/play/lytodifferentcolor)*
+This is a little bot which automatically plays the Facebook game *[Lyto Different Color](https://fb.gg/play/lytodifferentcolor)*.
 
 The main principle is to recognize the minority color in the game window and click on it.
 
