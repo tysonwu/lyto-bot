@@ -26,4 +26,4 @@ The bot is done by using the Python package of auto-controlling `pyautogui` and 
 
 ## Demonstration
 
-![lyto_demo](/Users/TysonWu/dev/lyto-bot/lyto-bot/lyto_demo.gif)
+![lyto_demo](lyto_demo.gif)
